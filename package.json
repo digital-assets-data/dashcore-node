@@ -75,7 +75,7 @@
     "istanbul": "^0.4.5",
     "jshint": "^2.10.2",
     "jshint-stylish": "^2.2.1",
-    "mocha": "^4.1.0",
+    "mocha": "^10.2.0",
     "proxyquire": "^2.1.0",
     "rimraf": "^2.6.3",
     "sinon": "^2.4.1"
